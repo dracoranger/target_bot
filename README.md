@@ -2,7 +2,7 @@
 discord bot that targets a user, and replies to them
 
 
-#how to use
+# how to use
 
 1. download python, 3.6 or later
 2. pip install discord.py
